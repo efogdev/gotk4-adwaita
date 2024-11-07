@@ -1,4 +1,4 @@
-module github.com/diamondburned/gotk4-adwaita
+module github.com/efogdev/gotk4-adwaita
 
 go 1.22.0
 

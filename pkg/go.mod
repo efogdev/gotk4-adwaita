@@ -1,4 +1,4 @@
-module github.com/diamondburned/gotk4-adwaita/pkg
+module github.com/efogdev/gotk4-adwaita/pkg
 
 go 1.18
 

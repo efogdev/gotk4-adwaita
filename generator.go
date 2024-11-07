@@ -9,7 +9,7 @@ import (
 	"github.com/diamondburned/gotk4/gir/girgen/types"
 )
 
-const adwaitaModule = "github.com/diamondburned/gotk4-adwaita/pkg"
+const adwaitaModule = "github.com/efogdev/gotk4-adwaita/pkg"
 
 var preprocessors = []types.Preprocessor{
 	// We'll add our own AddSetter that is a bit more Go-like.
