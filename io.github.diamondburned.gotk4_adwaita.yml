@@ -1,6 +1,6 @@
 app-id: io.github.diamondburned.gotk4_adwaita
 runtime: org.gnome.Sdk
-runtime-version: "45"
+runtime-version: "47"
 sdk: org.gnome.Sdk
 sdk-extensions:
   - "org.freedesktop.Sdk.Extension.golang"
